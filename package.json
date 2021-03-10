@@ -1,0 +1,22 @@
+{
+  "name": "scheduler-mgmt-service",
+  "version": "1.0.0",
+  "description": "Manage all student operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hetaram",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.3",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "jshint": "^2.12.0",
+    "jslint": "^0.12.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.5.2",
+    "standard": "^16.0.3",
+    "validator": "^10.11.0"
+  }
+}
